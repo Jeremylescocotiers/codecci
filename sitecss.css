@@ -1,0 +1,21 @@
+header {
+    background-image: url("fond1.jpg");
+    height: 500px;
+    width: 100%;
+    color: white;
+    
+}
+.alincentre{
+    text-align: center;
+}
+h4 {
+    color: red;
+    
+}
+.boitepurple{
+    background-color: purple;
+    color: white;
+}
+.bordure{
+    margin: -10px;
+}
